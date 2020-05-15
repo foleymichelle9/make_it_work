@@ -23,7 +23,7 @@ before(:each) do
                                                  material: "Lamp")
 end
 
-    it "I see a projects name and material, I also see the theme of the challenge this project belongs to" do
+    it "I see a projects name" do
 
 
       visit "/projects"
